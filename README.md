@@ -109,7 +109,8 @@ jupyter notebook
 
 ---
 
-### **🔍 Key Insights**
+## **🔍 Key Insights**
+
 - **K-Means Superiority**: K-Means achieved the best silhouette score (0.4240) with optimal k=2
 - **Enhanced Data Preprocessing**: Comprehensive outlier removal and duplicate handling significantly improved clustering quality
 - **DBSCAN Optimization**: Successfully implemented DBSCAN with parameter tuning, finding optimal eps=0.5
